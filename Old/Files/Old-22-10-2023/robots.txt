@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /yoften
-Disallow: /test
-Disallow: /Old
-Disallow: /nom
-  
